@@ -11,8 +11,7 @@
 
 ![Скриншот 1](img/1.png)  
 
-
-![Скриншот 2](https://github.com/nakuzovkova/balansirovka-hw/blob/master/img/1-1.png)  
+![Скриншот 2](img/1-1.png)  
 
 ---
 
@@ -25,7 +24,7 @@
 [haproxy2](configs/haproxy.cfg) 
 
 
-![Скриншот 2](https://github.com/nakuzovkova/balansirovka-hw/blob/master/img/2.png)
+![Скриншот 2](img/2.png)
 
 ---
 
