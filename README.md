@@ -8,7 +8,6 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 ```
-
 global
         log /dev/log    local0
         log /dev/log    local1 notice
@@ -66,10 +65,12 @@ backend tcp_back    # секция бэкенд
         server s1 127.0.0.1:8888 check
         server s2 127.0.0.1:9999 check
 
+```
 
-![Скриншот 1](https://github.com/nakuzovkova/balansirovka-hw/blob/master/img/1.png)
+![Скриншот 1](img/1.png)  
 
-![Скриншот 2](https://github.com/nakuzovkova/balansirovka-hw/blob/master/img/1-1.png)
+
+![Скриншот 2](https://github.com/nakuzovkova/balansirovka-hw/blob/master/img/1-1.png)  
 
 ---
 
